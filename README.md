@@ -1,6 +1,6 @@
 # Testing Causal Discovery Notebook
 
-This Jupyter Notebook contains the implementation and testing of the Causal Discovery algorithm.
+This Jupyter Notebook contains the implementation and testing of the Causal Discovery algorithm using Py-why
 
 ## Getting Started
 
@@ -24,4 +24,13 @@ The notebook contains the implementation of the Causal Discovery algorithms, alo
 ## Contributing
 
 Contributions are welcome. Please submit a pull request.
+
+## Citation
+
+@article{causallearn,
+  title={Causal-learn: Causal Discovery in Python},
+  author={Yujia Zheng and Biwei Huang and Wei Chen and Joseph Ramsey and Mingming Gong and Ruichu Cai and Shohei Shimizu and Peter Spirtes and Kun Zhang},
+  journal={arXiv preprint arXiv:2307.16405},
+  year={2023}
+}
 
