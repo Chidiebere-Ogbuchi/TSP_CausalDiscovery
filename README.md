@@ -1,5 +1,3 @@
-# TSP_CausalDiscovery
-
 # Testing Causal Discovery Notebook
 
 This Jupyter Notebook contains the implementation and testing of the Causal Discovery algorithm.
