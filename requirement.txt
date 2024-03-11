@@ -1,0 +1,11 @@
+numpy
+networkx
+pandas
+scipy
+scikit-learn
+statsmodels
+pydot
+matplotlib
+graphviz
+causal-learn
+#!pip install git+https://github.com/microsoft/dowhy.git
