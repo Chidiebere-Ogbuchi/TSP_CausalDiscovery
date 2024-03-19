@@ -16,7 +16,8 @@ You need to have the following installed:
 ### Running the Notebook
 
 Preprocess the file usiing pre_proc.ipynb
-Run a Causal Algorithm. Comnsider adjusting the parameters before executing the notebook in your jupyter environment.
+
+Run a Causal Algorithm. Consider adjusting the parameters before executing the notebook in your jupyter environment.
 
 ## Notebook Contents
 
