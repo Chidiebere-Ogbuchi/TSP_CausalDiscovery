@@ -15,7 +15,7 @@ You need to have the following installed:
 
 ### Running the Notebook
 
-Preprocess the file using pre_proc.ipynb to obtain an output.csv
+Preprocess the file using latest version pre_proc.ipynb to obtain an output (raname csv as output.csv before use)
 
 Run a Causal Algorithm. Consider adjusting the parameters before executing the notebook in your jupyter environment.
 
