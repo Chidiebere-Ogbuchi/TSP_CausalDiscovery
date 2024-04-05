@@ -4,7 +4,7 @@ This Jupyter Notebook contains the implementation and testing of the Causal Disc
 
 ## Getting Started
 
-To get started with this project, clone the repository and open the .ipynb notebook in Jupyter.
+To get started with this project, clone the repository and open the laatest version of .ipynb notebook in Jupyter.
 
 ### Prerequisites
 
